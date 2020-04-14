@@ -1,0 +1,51 @@
+/* Theme */
+#switcher .theme-click {
+	background-color: #ce0c21;
+}
+/* Buttons*/
+.mn-nav-btn {
+	background-color:  #ce0c21;
+}
+.btn-primary {
+	background-color: #ce0c21;
+}
+.btn-white-primary {
+	color: #ce0c21;
+}
+/* Blog */
+.mn-blog:hover .mn-blog-category {
+	background-color:  #ce0c21;
+}
+/* About Icons */
+.mn-about-content ul>li .fa {
+	color: #ce0c21;
+}
+/* Price Table */
+.mn-price-popular {
+	background-color: #ce0c21;
+}
+/* Icon color */
+.mn-icontext .mn-icon,.navbar-default.mn-primary-navbar .navbar-nav>li>a:hover,.navbar-default.mn-primary-navbar .navbar-nav>li>a:focus {
+	color: #ce0c21;
+}
+
+.mn-primary{
+    color: #ce0c21;
+}
+
+.mn-section-heading .mn-primary {
+    color: #ce0c21;
+}
+
+.mn-subscribe-content h2{
+    color: #ce0c21;
+}
+
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #ce0c21;
+}
+
+/*Experienced events speaker*/
+.mn-icons {
+    background-color: #ce0c21;
+}
