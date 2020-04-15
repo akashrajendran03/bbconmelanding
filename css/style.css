@@ -495,7 +495,7 @@ header {
     overflow-y: hidden;
     background: /* top, transparent red */
     linear-gradient( rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), /* bottom, image */
-    url(../images/hero-bg.png);
+    url(../images/hero-bg.jpg);
     background-position: center;
     color: #ffffff;
     background-size: cover;
