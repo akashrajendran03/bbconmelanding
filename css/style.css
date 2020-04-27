@@ -488,22 +488,19 @@ Navbar STYLING
 Hero Header
 ---------------------------------------- */
 
-header {
-    position: relative;
-    width: 100%;
-    min-height: auto;
-    overflow-y: hidden;
-    background: /* top, transparent red */
-    linear-gradient( rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), /* bottom, image */
-    url(../images/hero-bg.jpg);
-    background-position: center;
-    color: #ffffff;
-    background-size: cover;
+.header-site {
+    background-image:
+linear-gradient(to bottom, rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)),
+url('../images/hero-bg.jpg');
+ 
+background-repeat:no-repeat;
+background-size: cover;
+    
 }
 
 .header-content {
-    padding-top: 180px;
-    padding-bottom:180px;
+    /*padding-top: 180px;*/
+    /*padding-bottom:180px;*/
     text-align: center;
 }
 
@@ -566,6 +563,7 @@ header {
 }
 
 @media(min-width:300px) and (max-width:1199px) {
+    header{background-color:black;}
     .mn-middle {
         justify-content:center;
     }

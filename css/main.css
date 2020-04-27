@@ -12,3 +12,8 @@
 #main-logo{
 	max-height: 60px;
 }
+.sub{
+    text-align: left;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+}
